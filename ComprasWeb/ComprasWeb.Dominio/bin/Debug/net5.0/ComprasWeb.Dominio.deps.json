@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ComprasWeb.Dominio/1.0.0": {
+        "runtime": {
+          "ComprasWeb.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComprasWeb.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

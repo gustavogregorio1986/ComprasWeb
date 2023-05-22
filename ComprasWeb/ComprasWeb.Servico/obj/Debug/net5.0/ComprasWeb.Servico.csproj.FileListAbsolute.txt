@@ -1,0 +1,17 @@
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\bin\Debug\net5.0\ComprasWeb.Servico.deps.json
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\bin\Debug\net5.0\ComprasWeb.Servico.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\bin\Debug\net5.0\ComprasWeb.Servico.pdb
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\bin\Debug\net5.0\ComprasWeb.Data.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\bin\Debug\net5.0\ComprasWeb.Dominio.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\bin\Debug\net5.0\ComprasWeb.Data.pdb
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\bin\Debug\net5.0\ComprasWeb.Dominio.pdb
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ComprasWeb.Servico.csproj.AssemblyReference.cache
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ComprasWeb.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ComprasWeb.Servico.AssemblyInfoInputs.cache
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ComprasWeb.Servico.AssemblyInfo.cs
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ComprasWeb.Servico.csproj.CoreCompileInputs.cache
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ComprasWeb.Servico.csproj.CopyComplete
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ComprasWeb.Servico.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\refint\ComprasWeb.Servico.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ComprasWeb.Servico.pdb
+C:\ComprasWeb\ComprasWeb\ComprasWeb.Servico\obj\Debug\net5.0\ref\ComprasWeb.Servico.dll
