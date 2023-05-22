@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ComprasWeb.Data.Repositorio.Interface
 {
-    public interface IUsurioRepositorio : IGenericRepositorio<Usuario>
+    public interface IUsuarioRepositorio : IGenericRepositorio<Usuario>
     {
     }
 }
