@@ -1,4 +1,9 @@
 using ComprasWeb.Data.Contexto;
+using ComprasWeb.Data.Repositorio;
+using ComprasWeb.Data.Repositorio.Interface;
+using ComprasWeb.Dominio.Dominio;
+using ComprasWeb.Servico.Servico;
+using ComprasWeb.Servico.Servico.Interface;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -9,10 +14,12 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using NUnit.Framework.Constraints;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Unity;
 
 namespace ComprasWeb
 {
@@ -28,6 +35,9 @@ namespace ComprasWeb
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var container = new UnityContainer();
+            container.RegisterType<IUsuarioRepositorio, UsuarioRepositorio>();
+            container.RegisterType<IUsuarioServico, UsuarioServico>();
             services.AddDbContext<ComprasWebContexto>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllers();
             services.AddSwaggerGen(c =>
