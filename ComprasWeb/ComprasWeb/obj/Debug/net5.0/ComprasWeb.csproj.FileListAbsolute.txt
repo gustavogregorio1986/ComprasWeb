@@ -64,3 +64,6 @@ C:\ComprasWeb\ComprasWeb\ComprasWeb\obj\Debug\net5.0\refint\ComprasWeb.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\obj\Debug\net5.0\ComprasWeb.pdb
 C:\ComprasWeb\ComprasWeb\ComprasWeb\obj\Debug\net5.0\ComprasWeb.genruntimeconfig.cache
 C:\ComprasWeb\ComprasWeb\ComprasWeb\obj\Debug\net5.0\ref\ComprasWeb.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\nunit.framework.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Unity.Abstractions.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Unity.Container.dll
