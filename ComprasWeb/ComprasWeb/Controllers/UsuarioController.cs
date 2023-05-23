@@ -11,7 +11,7 @@ namespace ComprasWeb.Controllers
     public class UsuarioController : ControllerBase
     {
 
-        private UsuarioServico usuarioServico;
+        private readonly UsuarioServico usuarioServico;
 
         public UsuarioController()
         {
