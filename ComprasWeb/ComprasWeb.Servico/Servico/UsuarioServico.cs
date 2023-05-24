@@ -1,4 +1,5 @@
-﻿using ComprasWeb.Data.Repositorio;
+﻿using ComprasWeb.Data.DTO;
+using ComprasWeb.Data.Repositorio;
 using ComprasWeb.Dominio.Dominio;
 using ComprasWeb.Servico.Servico.Interface;
 using System;
@@ -18,9 +19,9 @@ namespace ComprasWeb.Servico.Servico
             usuarioReposiutorio = new UsuarioRepositorio();
         }
 
-        public void Adicionar(Usuario usuario)
+        public void Adicionar(UsuarioDTO usuarioDTO)
         {
-            usuarioReposiutorio.Adicionar(usuario);
+            usuarioReposiutorio.Adicionar(usuarioDTO);
         }
     }
 }
