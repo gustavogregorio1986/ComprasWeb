@@ -15,12 +15,16 @@ namespace ComprasWeb.Dominio.Dominio
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int IdUser { get; set; }
 
+        [MaxLengthAttribute(80)]
         public string User { get; set; }
 
+        [MaxLengthAttribute(100)]
         public string Senha { get; set; }
 
+        [MaxLengthAttribute(60)]
         public string Email { get; set; }
 
+        [MaxLengthAttribute(20)]
         public string Perfil { get; set; }
     }
 }

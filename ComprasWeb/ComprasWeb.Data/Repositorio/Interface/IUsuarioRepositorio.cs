@@ -1,4 +1,5 @@
-﻿using ComprasWeb.Dominio.Dominio;
+﻿using ComprasWeb.Data.DTO;
+using ComprasWeb.Dominio.Dominio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ComprasWeb.Data.Repositorio.Interface
 {
-    public interface IUsuarioRepositorio : IGenericRepositorio<Usuario>
+    public interface IUsuarioRepositorio : IGenericRepositorio<UsuarioDTO>
     {
     }
 }

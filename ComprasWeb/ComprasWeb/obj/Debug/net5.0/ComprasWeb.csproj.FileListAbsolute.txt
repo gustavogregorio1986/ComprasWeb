@@ -22,6 +22,7 @@ C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Pro
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\nunit.framework.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -30,6 +31,8 @@ C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\System.Diagnostics.Diagnost
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Unity.Abstractions.dll
+C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Unity.Container.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
@@ -64,6 +67,3 @@ C:\ComprasWeb\ComprasWeb\ComprasWeb\obj\Debug\net5.0\refint\ComprasWeb.dll
 C:\ComprasWeb\ComprasWeb\ComprasWeb\obj\Debug\net5.0\ComprasWeb.pdb
 C:\ComprasWeb\ComprasWeb\ComprasWeb\obj\Debug\net5.0\ComprasWeb.genruntimeconfig.cache
 C:\ComprasWeb\ComprasWeb\ComprasWeb\obj\Debug\net5.0\ref\ComprasWeb.dll
-C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\nunit.framework.dll
-C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Unity.Abstractions.dll
-C:\ComprasWeb\ComprasWeb\ComprasWeb\bin\Debug\net5.0\Unity.Container.dll
