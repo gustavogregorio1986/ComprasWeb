@@ -8,6 +8,7 @@ namespace ComprasWeb.Data.DTO
 {
     public class UsuarioDTO
     {
+        
         public int IdUser { get; set; }
 
         public string User { get; set; }
